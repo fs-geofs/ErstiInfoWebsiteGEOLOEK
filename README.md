@@ -1,2 +1,2 @@
-# ErstiInfoWebsiteGEOLOEK
+# erstsemesterInfoWebsite
  
